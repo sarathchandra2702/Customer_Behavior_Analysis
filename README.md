@@ -2,20 +2,29 @@
 A data analytics project showcasing customer behavior analysis using python, SQL and powerBI
 
 Data Analytics Project – End-to-End Analysis Pipeline
+
+
 📌 Overview
 
 This project demonstrates a complete data analytics workflow—from loading raw data in Python to delivering final business insights through a Power BI dashboard, a written report, and a presentation created using Gamma.
 It highlights skills in data cleaning, exploratory data analysis (EDA), SQL querying, dashboard design, and storytelling with data.
 
+
 📂 Dataset
 
-Source: (Add your dataset source here)
+Name: customer_shopping_behavior
 
-Format: CSV / Excel / JSON
+Format: CSV 
 
-Description: Briefly describe what the dataset contains (e.g., customer transactions, product sales, employee data).
+Description: 
+Total Rows: 3,900
+Total Columns: 18
+Main Attributes Included:
+o	Customer demographics such as age, gender, location, and subscription status
+o	Purchase-related information like item bought, product category, amount spent, season, size, and color
+o	Behavioral indicators including discount usage, promo codes applied, past purchases, purchase frequency, review ratings, and shipping method
+Missing Values: 37 entries are missing in the Review Rating field
 
-Size: Number of rows & columns (optional)
 
 🛠️ Tools & Technologies
 
@@ -30,6 +39,8 @@ Jupyter Notebook / VS Code
 Gamma App (for presentation)
 
 Microsoft Word / Google Docs (for written report)
+
+
 
 🔍 Project Steps
 1️⃣ Load & Inspect Dataset (Python)
@@ -128,6 +139,7 @@ Power BI Desktop
 Required Python libraries:
 
 pip install pandas numpy matplotlib seaborn psycopg2-binary
+
 
 Steps:
 
