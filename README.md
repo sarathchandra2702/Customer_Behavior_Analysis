@@ -33,6 +33,7 @@ o	Behavioral indicators including discount usage, promo codes applied, past purc
 Missing Values: 37 entries are missing in the Review Rating field
 
 
+
 🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
@@ -50,6 +51,7 @@ Microsoft Word / Google Docs (for written report)
 
 
 🔍 Project Steps
+
 1️⃣ Load & Inspect Dataset (Python)
 
 Imported dataset using Pandas
@@ -135,7 +137,8 @@ Tailored slides for a non-technical audience
 
 
 ▶️ How to Run the Project
-Prerequisites
+
+Prerequisites:
 
 Python 3.x
 
