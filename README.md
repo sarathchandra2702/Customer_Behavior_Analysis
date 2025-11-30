@@ -130,9 +130,13 @@ Tailored slides for a non-technical audience
 📈 Key Insights & Results
 
 •	Increase Subscriptions: Market exclusive perks more effectively to encourage customers to subscribe.
+
 •	Enhance Loyalty Programs: Offer rewards to frequent shoppers to transition them into the “Loyal” customer segment.
+
 •	Optimize Discount Strategy: Reassess discount usage to maintain a balance between increased sales and profit margins.
+
 •	Improve Product Positioning: Feature top-rated and best-selling items prominently in marketing campaigns.
+
 •	Implement Targeted Marketing: Direct promotional efforts toward high-spending age groups and customers who prefer express shipping.
 
 
