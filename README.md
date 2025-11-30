@@ -17,12 +17,19 @@ Name: customer_shopping_behavior
 Format: CSV 
 
 Description: 
+
 Total Rows: 3,900
+
 Total Columns: 18
+
 Main Attributes Included:
+
 o	Customer demographics such as age, gender, location, and subscription status
+
 o	Purchase-related information like item bought, product category, amount spent, season, size, and color
+
 o	Behavioral indicators including discount usage, promo codes applied, past purchases, purchase frequency, review ratings, and shipping method
+
 Missing Values: 37 entries are missing in the Review Rating field
 
 
